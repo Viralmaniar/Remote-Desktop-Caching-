@@ -15,3 +15,14 @@ Choosing `Option 4`: Starts analyzing cache files and reconstruction process. Th
 
 ![image](https://user-images.githubusercontent.com/3501170/43398692-2c76f718-944c-11e8-8b77-0ed263967e08.png)
 
+# Questions?
+
+Twitter: https://twitter.com/maniarviral
+LinkedIn: https://au.linkedin.com/in/viralmaniar
+
+# Contribution & License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</br>
+Want to contribute? Please fork it and hit up with a pull request.
+
+Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
