@@ -27,7 +27,7 @@ Sensitive information is recovered from these binary files in the form of broken
 
 # Questions?
 
-Twitter: https://twitter.com/maniarviral
+Twitter: https://twitter.com/maniarviral <br>
 LinkedIn: https://au.linkedin.com/in/viralmaniar
 
 # Contribution & License
