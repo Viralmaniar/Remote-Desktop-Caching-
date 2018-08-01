@@ -15,6 +15,10 @@ Choosing `Option 4`: Starts analyzing cache files and reconstruction process. Th
 
 ![image](https://user-images.githubusercontent.com/3501170/43398692-2c76f718-944c-11e8-8b77-0ed263967e08.png)
 
+Sensitive information is recovered from these binary files in the form of broken PNG images. Managed to recover `LAPS password`, `Attacker IP address` and `malicious file names`. It also reveals some of the crucial information about attacker activities on a compromised host. For forensics team `timestamp` is revealed in most of these recovered images. 
+
+![image](https://user-images.githubusercontent.com/3501170/43517110-ec957090-95ca-11e8-9d2b-d55fe07fdecf.png)
+
 # How do I use this?
 <pre>
 - git clone https://github.com/Viralmaniar/Remote-Desktop-Caching-.git
